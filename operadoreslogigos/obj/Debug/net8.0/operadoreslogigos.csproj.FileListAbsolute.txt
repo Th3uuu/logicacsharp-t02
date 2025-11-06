@@ -1,0 +1,15 @@
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\bin\Debug\net8.0\operadoreslogigos.exe
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\bin\Debug\net8.0\operadoreslogigos.deps.json
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\bin\Debug\net8.0\operadoreslogigos.runtimeconfig.json
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\bin\Debug\net8.0\operadoreslogigos.dll
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\bin\Debug\net8.0\operadoreslogigos.pdb
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.AssemblyInfoInputs.cache
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.AssemblyInfo.cs
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.sourcelink.json
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.dll
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\refint\operadoreslogigos.dll
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.pdb
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\operadoreslogigos.genruntimeconfig.cache
+C:\Users\matheus.goliveira28\source\repos\operadoreslogigos\obj\Debug\net8.0\ref\operadoreslogigos.dll
