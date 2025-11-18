@@ -1,0 +1,15 @@
+C:\Users\matheus.goliveira28\source\repos\maratona02\bin\Debug\net8.0\maratona02.exe
+C:\Users\matheus.goliveira28\source\repos\maratona02\bin\Debug\net8.0\maratona02.deps.json
+C:\Users\matheus.goliveira28\source\repos\maratona02\bin\Debug\net8.0\maratona02.runtimeconfig.json
+C:\Users\matheus.goliveira28\source\repos\maratona02\bin\Debug\net8.0\maratona02.dll
+C:\Users\matheus.goliveira28\source\repos\maratona02\bin\Debug\net8.0\maratona02.pdb
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.AssemblyInfoInputs.cache
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.AssemblyInfo.cs
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.sourcelink.json
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.dll
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\refint\maratona02.dll
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.pdb
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\maratona02.genruntimeconfig.cache
+C:\Users\matheus.goliveira28\source\repos\maratona02\obj\Debug\net8.0\ref\maratona02.dll
