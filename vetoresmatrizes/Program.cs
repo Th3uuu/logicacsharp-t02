@@ -45,3 +45,48 @@ static int PesquisaSequencial(int[] vetor, int valor)
     }
     return -1; //Retorna -1 se não encontrar
 }
+
+// Ordenar antes ea pesquisa binária
+Array.Sort(numeros);
+
+// Pesquisa binária
+int posicaoBinaria = Array.BinarySearch(numeros, valorProcurado);
+if (posicaoBinaria >= 0)
+{
+    Console.WriteLine($"Pesquisa Binária: valor {valorProcurado} encontrado na posição {posicaoBinaria}.");
+
+}
+else
+{
+    Console.WriteLine($"Pesquisa Binária: valo {valorProcurado} não encontrado.");
+}
+// Declaração e manipulação de uma matriz 3x2
+int[,] matriz = new int[3, 2]
+    {
+    { 1, 2 },
+    { 3, 4 },
+    { 5, 6 }
+    };
+
+Console.WriteLine("\nExibindo a Matriz 3x2:");
+for (int i = 0; i < 3; i++)
+{
+    for (int j = 0; j < 2; j++)
+    {
+        Console.WriteLine(matriz[i, j] + "\t");
+    }
+    Console.WriteLine();
+}
+
+//Manipulação: somando 10 a cada elemento
+Console.WriteLine("\nMatriz após adicionar 10 a cada elemento:");
+for (int i = 0; i < 3; i++)
+{
+    for (int j = 0; j < 2; j++)
+    {
+        matriz[i, j] += 10;
+        Console.WriteLine(matriz[i, j] + "\t");
+    }
+    Console.WriteLine();
+}
+
